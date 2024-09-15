@@ -18,11 +18,13 @@ To view and use the Travel Adventure website, follow these steps:
  1. **Clone the Repository:**
    ```bash
    git clone https://github.com/LatshanaPR/SCT_WD_1.git
- 2.Navigate to project directory:
-  cd SCT_WD_1
-3.open the website
 
-Technologies used:
-HTML
-CSS
-JAVASCRIPT
+
+ 2. **Navigate to project directory:**
+  cd SCT_WD_1
+3. **open the website**
+
+## Technologies used:
+**HTML**
+**CSS**
+**JAVASCRIPT**
