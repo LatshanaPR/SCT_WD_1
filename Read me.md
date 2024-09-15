@@ -15,16 +15,24 @@ This project is a responsive landing page created as part of Task 1 for Skillcra
 
 To view and use the Travel Adventure website, follow these steps:
 
- 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/LatshanaPR/SCT_WD_1.git
+1. **Clone the Repository:**
 
+    ```bash
+    git clone https://github.com/LatshanaPR/SCT_WD_1.git
+    ```
 
- 2. **Navigate to project directory:**
-  cd SCT_WD_1
-3. **open the website**
+2. **Navigate to the project directory:**
 
-## Technologies used:
-**HTML**
-**CSS**
-**JAVASCRIPT**
+    ```bash
+    cd SCT_WD_1
+    ```
+
+3. **Open the website:** 
+
+    Open the `index.html` file in your browser.
+
+## Technologies Used
+
+- **HTML**
+- **CSS**
+- **JavaScript**
